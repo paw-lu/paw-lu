@@ -1,4 +1,4 @@
-### Hi there 👋
+![Name logo](name.png)
 
 <!--
 **paw-lu/paw-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
