@@ -1,5 +1,10 @@
 ![Name logo](name.png)
 
+Hi!
+I'm Paulo S. Costa—a data scientist currently at Facebook.
+Here I work mostly on data focused command-line and Python tools.
+
+
 <!--
 **paw-lu/paw-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
