@@ -26,10 +26,10 @@ language_text = (
 )
 citations_text = (
     "\nThe code used to create this animation may be found at"
-    f" [{SECONDARY_COLOR}]paw-lu/paw-lu[/{SECONDARY_COLOR}]. It made"
-    " with the help of two great Python libraries:\n\n"
-    f"• [{SECONDARY_COLOR}]nbedos/termtosvg[/{SECONDARY_COLOR}]\n"
-    f"• [{SECONDARY_COLOR}]willmcgugan/rich[/{SECONDARY_COLOR}]\n"
+    f" [{SECONDARY_COLOR}]paw-lu/paw-lu[/{SECONDARY_COLOR}]. It was"
+    " made with the help of two great Python libraries:\n\n"
+    f" • [{SECONDARY_COLOR}]nbedos/termtosvg[/{SECONDARY_COLOR}]\n"
+    f" • [{SECONDARY_COLOR}]willmcgugan/rich[/{SECONDARY_COLOR}]\n"
 )
 panels = {
     "Me": about_me_text,
